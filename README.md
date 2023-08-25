@@ -2,6 +2,7 @@
 
 <p align="center">
     ### Rogério Martins
+    <br>
     <b>Analista de suporte</b>
     <br>
     <a href="https://www.linkedin.com/in/rogeriomartins2023">
