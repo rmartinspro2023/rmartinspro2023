@@ -1,5 +1,15 @@
 ### Rogério Martins 👋
 
+<p align="center">
+    <b>Analista de suporte</b>
+    <br>
+    <a href="https://www.linkedin.com/in/rogeriomartins2023">
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=falcao-g&style=for-the-badge"/>
+</p>
+
+
 <!--
 **rmartinspro2023/rmartinspro2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
